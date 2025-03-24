@@ -19,3 +19,6 @@ Run this script and find out if you're getting what you paid for... or if it’s
 Make sure you have **Python 3** installed. Check with:  
 ```bash
 python3 --version
+pip install speedtest-cli
+python3 speed_test.py
+
